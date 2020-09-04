@@ -6,6 +6,8 @@ URL: We will make one
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
+Note: This project has been copied from online. So, we are using it only for study purpose.
+
 # Setup
 
 ## If you have python installed:
