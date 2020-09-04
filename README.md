@@ -2,11 +2,11 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: We will make one
+URL: https://rohitgupta29.github.io/happy_birthday/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-Note: This project has been copied from online. So, we are using it only for study purpose.
+Note: This project has been folked and learned from ayusharma. So, we are using it only for study purpose.
 
 # Setup
 
